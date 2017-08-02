@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ilias/CLionProjects/QuizGame/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
